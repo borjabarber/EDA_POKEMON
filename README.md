@@ -1,4 +1,4 @@
-# EDA_POKEMON
-"Descifrando el mundo Pokémon: descubre el poder de los datos y conviértete en un auténtico Maestro Pokémon." 
+# Descifrando el mundo Pokémon:
+"Descubre el poder de los datos y conviértete en un auténtico Maestro Pokémon." 
 
 
