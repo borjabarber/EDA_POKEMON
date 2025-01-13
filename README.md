@@ -5,5 +5,5 @@
 - **Data**: Contiene el conjunto de datos utilizado para el análisis EDA.
 - **img**: Contiene las imagenes utilizadas para el análisis EDA. 
 - **src**: Contiene todo el código tanto sin limpiar como compilado, y los notebooks utilizados para pruebas e hipótesis.  
-- **EDA Pokémon**: Contiene el análisis EDA completo sobre Pokémon, incluyendo el código, las visualizaciones y sus respectivas hipótesis.  
+- **EDA Pokémon**: Contiene la memoria de el análisis EDA completo sobre Pokémon, incluyendo el código, las visualizaciones y sus respectivas hipótesis.  
 
