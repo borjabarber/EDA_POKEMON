@@ -1,0 +1,61 @@
+
+tarjeta 1
+Como podemos observar, en las generaciones 3, 4 y 5 hay un mayor número de Pokémon legendarios, siendo la tercera generación la que cuenta con la mayor cantidad y estadisticas más equilibradas. Por lo tanto, si buscamos un Pokémon legendario que se adapte a nuestras necesidades, las posibilidades de encontrarlo en dicha generación son mayores
+
+
+
+tarjeta 2
+Generaciones 1 y 3 destacan en términos generales:
+Estas generaciones, al tener un número elevado de Pokémon, tienen una presencia notable en varias estadísticas. Esto sugiere que incluyen Pokémon con atributos equilibrados y sólidos.
+
+Generación 2 sobresale en defensa:
+Los gráficos muestran que los Pokémon de la Generación 2 tienen una alta defensa en comparación con otras estadísticas, destacándose en este aspecto particular a pesar de no ser excesivamente poblada.
+
+Generaciones 4 y 5 se mantienen en un plano más modesto:
+Estas generaciones parecen tener estadísticas menos sobresalientes en comparación con las otras, manteniéndose más equilibradas pero sin destacar en ninguna estadística específica, a pesar de que la 5ª generación cuenta con un número muy alto de Pokémon.
+
+tarjeta 3
+A pesar de que el tipo Dragón no cuenta con Pokémon de las seis generaciones en sus filas, su equilibrio de legendarios es bastante alto.
+El tipo Psíquico está mejor repartido, ya que tiene Pokémon de seis generaciones y un número muy alto de legendarios.
+En cambio, el tipo Bicho, a pesar de tener Pokémon de las seis generaciones, no cuenta con ningún legendario en sus filas y recordemos que en su total de 
+estadísticas era el peor.
+
+
+tarjeta 4 a
+Podemos destacar que los Pokémon más fuertes de cada tipo están bastante bien repartidos entre todas las generaciones, siendo la 5ª generación la que está representada en menor número.
+
+tarjeta 4 b
+Podemos destacar que, entre los más fuertes por tipo, la mayoría no son legendarios. Si hacemos la comparativa con los legendarios por generación, llegamos a la conclusión de que, en la mayoría de los casos, el más fuerte sería legendario. Sin embargo, podemos determinar que, aunque los más fuertes sean legendarios, los que les siguen no tendrían por qué serlo.
+
+
+
+tarjeta 5
+Shedinja es una evolución de Nincada cuando dicho Pokémon evoluciona para convertirse en Ninjask. Se crea una Pokébola extra en el inventario del jugador con nuestro Pokémon llamado Shedinja en su interior.
+
+Shedinja es un Pokémon muy peculiar: no mueve ninguna parte de su cuerpo, ni siquiera para respirar. Este Pokémon se mantiene flotando en el aire sin mover las alas; simplemente levita. Se podría decir que representa la parte de Nincada que no ha evolucionado o la pequeña parte que "muere" de un Pokémon al evolucionar. 
+
+
+
+tarjeta 6
+Como podemos observar, **Pikachu** no tendría muchas posibilidades contra **Ampharos**, el Pokémon eléctrico más fuerte. Aunque podría salir corriendo, ya que cuenta con mucha más velocidad. En cambio, contra **Pichu**, el Pokémon más débil, las estadísticas son bastante parejas a pesar de que Pikachu sea un poco más fuerte.
+
+#¿Cuantos Pokémon tienen el total más alto que Pikachu?617
+
+
+
+tarjeta 7
+A pesar de que la votación general de las encuestas realizadas por Nintendoa los jugadores de Pokémon, el orden de elección sería el siguiente:  
+- 1º **Charmander**, el Pokémon de tipo fuego, con un 39,3% de los votos.  
+- 2º **Squirtle**, el Pokémon de tipo agua, con un 32,5% de los votos.  
+- 3º **Bulbasaur**, el Pokémon de tipo planta, con un 28,2% de los votos.  
+
+Los datos aseguran que la mejor elección es Bulbasaur, siendo el Pokémon con las características generales más elevadas.  
+ 
+
+
+
+
+
+
+
+
