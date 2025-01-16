@@ -47,15 +47,13 @@ Para ejecutar este análisis, necesitas instalar las siguientes librerías de Py
 1. **Introducción**:
    - Breve descripción del dataset y objetivos del análisis.
 2. **Carga y Limpieza de Datos**:
-   - Importación del dataset y tratamiento de valores nulos.
+   - Importación del dataset, 
+   - Análisis previos
+   - Limpieza y tratamiento de valores nulos.
 3. **Análisis Exploratorio**:
+   - Análisis profundos.
    - Visualización de datos.
-   - Análisis de distribuciones y correlaciones.
-4. **Conclusiones**:
-   - Los Pokémon legendarios tienden a tener estadísticas más altas en comparación con los no legendarios.
-   - El tipo "Dragón" muestra una fuerte correlación con estadísticas elevadas de ataque y velocidad.
-   - Las generaciones más recientes incluyen una mayor variedad de combinaciones de tipos.
-   - Pikachu no destaca en nada como Pokemon.
-   - Existe un Pokémon que relata su evolución de una manera interesante.
-   - y algunas sorpresas más. 
+   - Análisis de distribuciones y correlaciones.  
+   - Conclusiones.
+
 
