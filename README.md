@@ -21,7 +21,7 @@ El objetivo de este proyecto es explorar las características principales del da
 - ¿Qué correlaciones interesantes se pueden encontrar entre sus atributos?
 - ¿Es pikachu merecedor de de ser el Pokémon favorito?
 - ¿Cual es la mejor elección de la 1º generación?
-- 
+
 
 ## Dataset
 
