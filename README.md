@@ -7,7 +7,7 @@
 - **src**: Contiene todo el código tanto sin limpiar como compilado, y los notebooks utilizados para pruebas e hipótesis.  
 - **EDA Pokémon**: Contiene la memoria del análisis EDA completo sobre Pokémon, incluyendo el código, las visualizaciones y sus respectivas hipótesis.  
 
-# Exploratory Data Analysis (EDA) - Pokémon Dataset 🐾
+# Exploratory Data Analysis (EDA) - Pokémon Dataset 
 
 Este proyecto realiza un análisis exploratorio de datos (EDA) en un dataset de Pokémon. Utilizamos Python y herramientas populares de análisis de datos para extraer insights interesantes sobre las características y estadísticas de los Pokémon.
 
