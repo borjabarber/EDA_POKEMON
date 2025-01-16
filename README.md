@@ -1,15 +1,16 @@
+# Exploratory Data Analysis (EDA) - Pokémon Dataset 
 # Descifrando el mundo Pokémon:
-"Descubre el poder de los datos y conviértete en un auténtico Maestro Pokémon." 
+Este proyecto realiza un análisis exploratorio de datos (EDA) en un dataset de Pokémon. Utilizamos Python y herramientas populares de análisis de datos para extraer insights interesantes sobre las características y estadísticas de los Pokémon. 
+Descubre el poder de los datos y conviértete en un auténtico Maestro Pokémon." 
+
+
+## Organización de carpetas
 
 - **Presentación**: Contiene la presentación en imágenes del análisis EDA.  
 - **Data**: Contiene el conjunto de datos utilizado para el análisis EDA.
 - **img**: Contiene las imagenes utilizadas para el análisis EDA. 
 - **src**: Contiene todo el código tanto sin limpiar como compilado, y los notebooks utilizados para pruebas e hipótesis.  
 - **EDA Pokémon**: Contiene la memoria del análisis EDA completo sobre Pokémon, incluyendo el código, las visualizaciones y sus respectivas hipótesis.  
-
-# Exploratory Data Analysis (EDA) - Pokémon Dataset 
-
-Este proyecto realiza un análisis exploratorio de datos (EDA) en un dataset de Pokémon. Utilizamos Python y herramientas populares de análisis de datos para extraer insights interesantes sobre las características y estadísticas de los Pokémon.
 
 
 ## Descripción del Proyecto
@@ -55,6 +56,6 @@ Para ejecutar este análisis, necesitas instalar las siguientes librerías de Py
    - El tipo "Dragón" muestra una fuerte correlación con estadísticas elevadas de ataque y velocidad.
    - Las generaciones más recientes incluyen una mayor variedad de combinaciones de tipos.
    - Pikachu no destaca en nada como Pokemon.
-   - Existe un Pokémon que relata su evolusion de una manera interesante.
+   - Existe un Pokémon que relata su evolución de una manera interesante.
    - y algunas sorpresas más. 
 
