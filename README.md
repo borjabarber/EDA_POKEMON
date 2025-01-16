@@ -19,8 +19,9 @@ El objetivo de este proyecto es explorar las características principales del da
 - ¿Cuáles son los Pokémon más fuertes en términos de estadísticas?
 - ¿Existen diferencias significativas entre los tipos de Pokémon?
 - ¿Qué correlaciones interesantes se pueden encontrar entre sus atributos?
-- ¿Es pikachu merecedor de de ser el Pokémon favorito?
+- ¿Es Pikachu merecedor de ser el Pokémon favorito?
 - ¿Cual es la mejor elección de la 1º generación?
+- Y muchas incógnitas más.
 
 
 ## Dataset
