@@ -25,7 +25,7 @@ tarjeta 4 a
 Podemos destacar que los Pokémon más fuertes de cada tipo están bastante bien repartidos entre todas las generaciones, siendo la 5ª generación la que está representada en menor número.
 
 tarjeta 4 b
-Podemos destacar que, entre los más fuertes por tipo, la mayoría no son legendarios. Si hacemos la comparativa con los legendarios por generación, llegamos a la conclusión de que, en la mayoría de los casos, el más fuerte sería legendario. Sin embargo, podemos determinar que, aunque los más fuertes sean legendarios, los que les siguen no tendrían por qué serlo.
+Al igual que en la gráfica por generación, en esta podemos observar que la mayoría de los campeones por tipo también son legendarios. Por lo tanto, aunque no sea en todos los casos, se puede afirmar que, si eliges un Pokémon de los más fuertes, tendrá bastantes posibilidades de ser legendario.
 
 
 
@@ -44,7 +44,7 @@ Como podemos observar, **Pikachu** no tendría muchas posibilidades contra **Amp
 
 
 tarjeta 7
-A pesar de que la votación general de las encuestas realizadas por Nintendoa los jugadores de Pokémon, el orden de elección sería el siguiente:  
+A pesar de que la votación general de las encuestas realizadas por Nintendo a los jugadores de Pokémon, el orden de elección sería el siguiente:  
 - 1º **Charmander**, el Pokémon de tipo fuego, con un 39,3% de los votos.  
 - 2º **Squirtle**, el Pokémon de tipo agua, con un 32,5% de los votos.  
 - 3º **Bulbasaur**, el Pokémon de tipo planta, con un 28,2% de los votos.  
