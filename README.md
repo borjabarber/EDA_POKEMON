@@ -1,6 +1,6 @@
 # Exploratory Data Analysis (EDA) - Pokémon Dataset 
 # Descifrando el mundo Pokémon:
-Este proyecto realiza un análisis exploratorio de datos (EDA) en un dataset de Pokémon. Utilizamos Python y herramientas populares de análisis de datos para extraer insights interesantes sobre las características y estadísticas de los Pokémon. 
+Este proyecto realiza un análisis exploratorio de datos (EDA) en un dataset de Pokémon. Utilizo Python y herramientas de análisis de datos para extraer insights interesantes sobre las características y estadísticas de los Pokémon. 
 Descubre el poder de los datos y conviértete en un auténtico Maestro Pokémon." 
 
 
